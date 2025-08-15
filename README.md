@@ -2,6 +2,8 @@
 An AI-powered assistant that helps you create professional email replies for the actual email content you share.
 It’s available as both a web application and a browser extension, so you can generate responses wherever you work.
 
+![project image](./email-writer-next/public/bg-img.png)
+
 ## ✨ Features
 📝 Smart Email Reply Generation — Paste or type your received email and get a polished, ready-to-send reply.
 
